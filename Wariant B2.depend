@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1673858273 source:c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr4 b\wariant b2\main.cpp
+	<iostream>
+	"AVLTree.h"
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+
+1673858697 c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr4 b\wariant b2\avltree.h
+	<iostream>
+
+1673805825 source:c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr4 b\wariant b2\avltree.cpp
+	<iostream>
+	"AVLTree.h"
+	<string>
+	<cstring>
+
